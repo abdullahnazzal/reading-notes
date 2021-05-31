@@ -1,5 +1,5 @@
 # reading-notes
-
+## Hello, This is Abdullah Nazzal I'm 25 years old, I'm graduated from the Jadara University, majored Software Engineering ##
 ## Growth Mindset ##
 
 ### How you can benefit from a growth mindset And Why? ###
