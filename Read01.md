@@ -22,8 +22,6 @@
 
 ### For more please visit: [Here](https://guides.github.com/features/mastering-markdown/)
 
--------------
-
 
 ## GitHub Pages:
 
