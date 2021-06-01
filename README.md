@@ -4,7 +4,7 @@
 
 | File      | Link |
 | ----------- | ----------- |
-| lab01  | [Growth Mindset](lab01.md)|
+| lab01+lab02  | [Growth Mindset](lab01.md)|
 | Read01  | [Master Mardown](Read01.md)|
 | Read02   | [Remote](Read02.md)|
 
