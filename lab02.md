@@ -23,3 +23,5 @@ In a fixed mindset as example When my alarm goes off at 5 A.M. to play cycling, 
 - **Criticism**
 - **Success of others:**
 In a fixed mindset when yoy was fiercely jealous of people I thought were more successful or more intelligent, But in the growth mindset with the help of our culture of openness and honesty, I was able to understand how the work I do relates to the work of my peers, and how it all comes together to create something awesome. 
+
+## reference : [Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
