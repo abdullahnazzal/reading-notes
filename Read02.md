@@ -1,19 +1,12 @@
-# Version Control
+# Git Remote
 
-## The need for collaboration within a developer team on a single file or set of files led to the advent of the Version Control. 
+## Every project have remote repositories, and should  manage it, and Remote repositories are versions of your project that are hosted on the Internet or network somewhere.
 
-### there are type of Version Control:
+## By added git remote command on Shell, you can view the short names, such as “origin,” of all specified remote handles.
 
-#### 1- Local Version Control
+### If I added git remote -v, you can view all the remote URLs next to their corresponding short names.
 
-  The programmer use database on  hard disk that stores changes to files.
-
-#### 2- Centralized Version Control
-
-  This system entails a single server storing all changes and file versions, which can be accessed by various clients
-
-#### 3- Distributed Version Control 
-
-  A DVCS allows clients to create mirrored repositories. These data backups can be easily be placed on the server to replace any lost information ** And GitHub one of them ** .
-
+** example: **
+When i added git remote -v, Show me like that:
+![Remote](remote.PNG)
 

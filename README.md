@@ -4,8 +4,8 @@
 
 | File      | Link |
 | ----------- | ----------- |
-| Read01  | [Readme](README.md)|
-| MasterMardown   | [MasterMarkdown](MasterMarkdown.md)|
+| Read01  | [MasterMardown](Read01.md)|
+| Read02   | [Remote](Read02.md)|
 
 
 ## Growth Mindset 
