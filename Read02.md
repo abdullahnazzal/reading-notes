@@ -14,6 +14,6 @@
 
 #### 3- Distributed Version Control 
 
-  A DVCS allows clients to create mirrored repositories. These data backups can be easily be placed on the server to replace any lost information ** And GitHub one of them **.
+  A DVCS allows clients to create mirrored repositories. These data backups can be easily be placed on the server to replace any lost information ** And GitHub one of them ** .
 
 
