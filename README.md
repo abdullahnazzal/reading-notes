@@ -7,4 +7,6 @@
 | lab01+lab02  | [Growth Mindset](lab01.md)|
 | Read01  | [Master Mardown](Read01.md)|
 | Read02   | [Remote](Read02.md)|
+| Read03   | [HTML](Read03.md)|
+| Read04   | [CSS](Read04.md)|
 
