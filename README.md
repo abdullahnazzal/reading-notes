@@ -9,4 +9,5 @@
 | Read02   | [Remote](Read02.md)|
 | Read03   | [HTML](Read03.md)|
 | Read04   | [CSS](Read04.md)|
+| Read06   | [JS](Read06.md)|
 
