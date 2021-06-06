@@ -11,5 +11,5 @@
 | Read04   | [CSS](Read04.md)|
 | Read06   | [JS](Read06.md)|
 | Read07   | [Programming with JavaScript](Read07.md)|
-| Read08   | [JS](Read08.md)|
+| Read08   | [Operators and Loops](Read08.md)|
 
